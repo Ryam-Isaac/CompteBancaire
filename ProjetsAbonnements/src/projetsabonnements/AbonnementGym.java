@@ -1,5 +1,5 @@
 package projetsabonnements;
-
+allo
 public class AbonnementGym {
     private double prix;
     private int duree; // en jours
